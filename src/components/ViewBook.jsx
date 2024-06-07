@@ -6,6 +6,7 @@ const ViewBook = () => {
     <div>
         <Navbar/>
         <div className="container">
+        <h2 align="center"><u><i>VIEW BOOK</i></u></h2><br></br>
             <div className="row">
                 <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12"><br></br>
                 <table class="table table-dark table-striped">
